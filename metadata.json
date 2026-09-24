@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS - Real-Time Incident Intelligence",
+  "description": "Intelligent real-time incident detection, event correlation, and cascading failure analysis engine for modern microservices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
